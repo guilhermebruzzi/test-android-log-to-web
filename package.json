@@ -8,7 +8,7 @@
     "build": "webpack -p"
   },
   "devDependencies": {
-    "@vtex/android-log-to-web": "^1.0.0",
+    "@vtex/android-log-to-web": "^1.0.2",
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
     "babel-preset-es2015": "^6.18.0",
